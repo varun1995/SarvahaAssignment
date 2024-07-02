@@ -1,0 +1,22 @@
+06/29/2024 10:29:57 AM: INFO: ******* Starting subscription test **********
+06/29/2024 10:30:01 AM: INFO: Entering email id for subscription
+06/29/2024 10:30:03 AM: INFO: Subscription done successfully!!
+06/29/2024 10:30:03 AM: INFO: ******* Ending subscription test **********
+06/29/2024 10:30:07 AM: INFO: ******* Starting subscription test **********
+06/29/2024 10:30:09 AM: INFO: Entering email id for subscription
+06/29/2024 10:30:20 AM: CRITICAL: An error occurred: Message: 
+
+06/29/2024 10:30:20 AM: INFO: ******* Ending subscription test **********
+06/29/2024 10:40:11 AM: INFO: ******* Starting subscription test **********
+06/29/2024 10:40:14 AM: INFO: Entering email id for subscription
+06/29/2024 10:40:15 AM: INFO: Subscription done successfully!!
+06/29/2024 10:40:18 AM: INFO: ******* Ending subscription test **********
+06/29/2024 10:40:22 AM: INFO: ******* Starting subscription test **********
+06/29/2024 10:40:25 AM: INFO: Entering email id for subscription
+06/29/2024 10:40:36 AM: ERROR: Subscription failed!! Error: Message: 
+
+06/29/2024 10:40:36 AM: INFO: ******* Ending subscription test **********
+06/29/2024 10:43:24 AM: INFO: ******* Starting file download test **********
+06/29/2024 10:43:26 AM: INFO: C:\Users\varun\Downloads\BrowserStack - List of devices to test on.csv
+06/29/2024 10:43:27 AM: INFO: File downloaded successfully.
+06/29/2024 10:43:27 AM: INFO: ******* End of file download test **********
